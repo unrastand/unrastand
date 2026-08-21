@@ -10,54 +10,75 @@
 
 ---
 
-## 🚀 About Me  
-👋 Hi, I'm **Israel Oluwasegun Kolawole**  
-🔧 **Mechatronis Engineer| Robotics and Automation | Full-Stack Web Developer**  
-🎯 Specializing in **Django, AI, Drone Systems, and Automation**  
+## 🚀 About Me
+
+👋 Hi, I'm **Israel Oluwasegun Kolawole**
+
+🔧 **Mechatronics Engineer | Robotics & Automation | Full-Stack Web Developer**
+
+🎯 Specializing in **Django, AI, Drone Systems, Robotics, and Automation**
 
 ---
 
-## 🌟 GitHub Stats  
+## 🌟 GitHub Stats
+
 <table>
   <tr>
     <td>
-      <a href="https://github.com/unrastand/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=unrastand&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </a>
+      <img
+        src="https://github-readme-streak-stats-pied-two-27.vercel.app/stats?username=unrastand&show_icons=true&theme=dark"
+        alt="GitHub Stats"
+      />
     </td>
     <td>
-      <a href="https://github.com/unrastand/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrastand&layout=compact&theme=dark" alt="Top Languages" />
-      </a>
+      <img
+        src="https://YOUR-APP.vercel.app/top-langs?username=unrastand&layout=compact&theme=dark"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
 
+[![GitHub Streak](https://YOUR-APP.vercel.app/?user=unrastand&theme=dark)](https://git.io/streak-stats)
 ---
 
-## 📌 Developer Profile  
+## 📌 Developer Profile
+
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=unrastand&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+  <a href="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&theme=dark">
+    <img
+      src="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&theme=dark&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
+
 </div>
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,typescript,cpp,arduino,raspberrypi,git,linux,postgres,mysql" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
+
 <p align="center">
+
   <a href="https://github.com/unrastand">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/israel-oluwasegun-kolawole">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:kolawoleisrael2500@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>

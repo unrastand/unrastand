@@ -26,18 +26,24 @@
   <tr>
     <td>
       <img
+        width="495"
+        height="195"
         src="https://github-readme-streak-stats-pied-two-27.vercel.app/stats?user=unrastand&amp;show_icons=true&amp;theme=dark"
         alt="GitHub Stats"
       />
     </td>
     <td>
       <img
+        width="495"
+        height="195"
         src="https://github-readme-streak-stats-pied-two-27.vercel.app/top-langs?user=unrastand&amp;layout=compact&amp;theme=dark"
         alt="Most Used Languages"
       />
     </td>
   </tr>
-</table>
+</table> 
+
+---
 
 ## 📌 Developer Profile
 

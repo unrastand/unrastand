@@ -26,32 +26,26 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&card=stats&show_icons=true&theme=dark"
+        src="https://github-readme-streak-stats-pied-two-27.vercel.app/stats?user=unrastand&amp;show_icons=true&amp;theme=dark"
         alt="GitHub Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&card=top-langs&layout=compact&theme=dark"
+        src="https://github-readme-streak-stats-pied-two-27.vercel.app/top-langs?user=unrastand&amp;layout=compact&amp;theme=dark"
         alt="Most Used Languages"
       />
     </td>
   </tr>
 </table>
 
----
-
 ## 📌 Developer Profile
 
 <div align="center">
-
-  <a href="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&theme=dark">
-    <img
-      src="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&theme=dark&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-
+  <img
+    src="https://github-readme-streak-stats-pied-two-27.vercel.app/?user=unrastand&amp;theme=dark&amp;hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
